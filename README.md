@@ -1,4 +1,4 @@
-# vean-bot
+# Vean-Bot
 
 ## CARA INSTALL DI TERMUX
 
@@ -6,9 +6,9 @@
 
 > pkg install nodejs && pkg install git
 
-> git clone https://github.com/ekadanuarta/vean-bot
+> git clone https://github.com/ground67/Vean-Bot
 
-> cd vean-bot
+> cd Bean-Bot
 
 > npm i
 
@@ -20,9 +20,9 @@
 
 ```bash
 
-> git clone https://github.com/ekadanuarta/vean-bot
+> git clone https://github.com/ground67/Vean-Bot
 
-> cd vean-bot
+> cd Vean-Bot
 
 > npm i
 
@@ -49,5 +49,7 @@
 * [`vean`](https://github.com/vean-yxz)
 
 * [`D A N U🐾⁩`](https://github.com/ekadanuarta) 
+
+* [`Ground67`](https://github.com/ground67)
 
   
